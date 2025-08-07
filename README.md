@@ -2,6 +2,8 @@
 
 A minimal yet fully functional React + Redux Toolkit application demonstrating core Redux concepts in a modern React environment. This project serves as a hands-on example for understanding global state management, slice-based architecture, and Redux dispatch/subscribe patterns.
 
+![Redux](https://img.shields.io/badge/Redux-Toolkit-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
 ---
 
 ## 🚀 Tech Stack
